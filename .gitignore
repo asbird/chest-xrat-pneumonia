@@ -43,6 +43,4 @@ package-lock.json
 geckodriver.log
 *.iml
 /chest_xray
-/test
-/train
-/val
+/data
